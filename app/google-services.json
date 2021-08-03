@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "996703657642",
+    "project_id": "job-portal-app-ee823",
+    "storage_bucket": "job-portal-app-ee823.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996703657642:android:ff4ccd784338b01d81bad3",
+        "android_client_info": {
+          "package_name": "com.naazcodes.jobportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996703657642-nphptuo6ticd335qk51vg7qocv6p8ovf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.naazcodes.jobportal",
+            "certificate_hash": "0abbc3b5a1cf7814f92897763747895bb8f95bfa"
+          }
+        },
+        {
+          "client_id": "996703657642-adf3qaldpk8m14laabdc1q11pbcra46r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA-x7tKEMWXli21VxXg4_S4LE_19w21-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996703657642-adf3qaldpk8m14laabdc1q11pbcra46r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
